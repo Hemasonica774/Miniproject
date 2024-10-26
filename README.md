@@ -44,7 +44,8 @@ Web Frameworks (for Web Application): Flask or Django, if deploying as a web app
 
 ## Results and Impact
 
-plant toxicity identification project aims to provide reliable, real-time plant classification, accurately identifying plants as toxic or non-toxic through advanced models like CNN, ResNet, and VGG16. With both image upload and camera-based detection, users can easily assess plant safety on the go, whether by uploading a photo or scanning with their camera. This accessible, user-friendly tool enhances public safety by helping people avoid harmful plants, making it useful for outdoor enthusiasts, gardeners, and healthcare providers alike. Additionally, the app serves as an educational resource, supporting awareness and safety in fields such as agriculture and environmental science. In the long term, it offers broad applications, empowering users to make informed decisions about the plants they encounter daily.
+
+Plant toxicity identification project aims to provide reliable, real-time plant classification, accurately identifying plants as toxic or non-toxic through advanced models like CNN, ResNet, and VGG16. With both image upload and camera-based detection, users can easily assess plant safety on the go, whether by uploading a photo or scanning with their camera. This accessible, user-friendly tool enhances public safety by helping people avoid harmful plants, making it useful for outdoor enthusiasts, gardeners, and healthcare providers alike. Additionally, the app serves as an educational resource, supporting awareness and safety in fields such as agriculture and environmental science. In the long term, it offers broad applications, empowering users to make informed decisions about the plants they encounter daily.
 
 ## Articles published / References
 
