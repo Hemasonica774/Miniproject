@@ -9,9 +9,8 @@ Machine learning and deep learning to address plant safety by identifying toxic 
 
 ## Features
 
-Image-Based Toxicity Detection: Users can upload a plant image, and the app will predict whether it is toxic or non-toxic using trained models.
-
-Name-Based Plant Search: Users can input a plant’s name to check its toxicity status, making it easy to get information without needing an image.
+Image-Based Toxicity Detection:
+The image-based toxicity detection feature enables users to determine whether a plant is toxic or non-toxic by simply uploading its image. Users can access a user-friendly interface to upload an image from their device or capture a photo using the camera. The app processes the uploaded image by resizing, normalizing, and preparing it for analysis to ensure compatibility with the trained deep learning model. Advanced algorithms, such as CNN, ResNet, or VGG16, analyze the image to extract features like texture, color, and shape, and predict whether the plant is toxic or non-toxic.
 
 ## Requirements
 
