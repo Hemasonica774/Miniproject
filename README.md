@@ -26,10 +26,11 @@ Web Frameworks (for Web Application): Flask or Django, if deploying as a web app
 
 ![Screenshot 2024-12-18 220729](https://github.com/user-attachments/assets/c84c6608-7139-4292-ae87-94c211690ac3)
 
-## Implementation
-
-dataset_dir="/content/plant_classification_dataset/tpc-imgs"
+# Implementation
+```
 # Set up parameters
+dataset_dir="/content/plant_classification_dataset/tpc-imgs"
+
 IMAGE_SIZE = (224, 224) # Image size required by most models
 BATCH_SIZE = 32
 EPOCHS = 10  # Adjust epochs based on performance and dataset size
@@ -106,6 +107,7 @@ class_labels = list(test_generator.class_indices.keys())  # Class labels
 print("\nClassification Report:")
 print(classification_report(true_classes, predicted_classes, target_names=class_labels))
 
+```
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
