@@ -131,11 +131,17 @@ Development of a CNN-based model for detecting toxic and non-toxicplants offers 
 ## Articles published / References
 
 1. “Deep Learning for Plant Identification in Natural Environment “, YuanLiu, Guan Wang, Haiyan Zhang, 2017
+ 
 2.“Image Classification for Toxic and Non- Toxic Plants “,MaadShatnawi ,Bakhee ,Almani, 2023
+
 3 “Plant Toxicity Classificati on by Image “ , Eera Bhatt, 2023
+
 4.“The Analysis of Plants Image Recognition Based on DeepLearning and ArtificialNeural Network” ,Jiang Huixian ,2020
+
 5 “What Plant is That? Tests of Automated Image Recognition Apps For Plants Identification On Plants From The British Flora “ , Hamlyn G Jones, 2020
+
 6.“Automated plant species identification—Trends and future directions”, Jeongyoon HeoJana Waldchen, Michael Rzanny, Marco Seeland, Patrick Mader.,2018
+
 7. “Plant Species Identification Based on Plant Leaf Using Computer Vision And Machine Learning ”, Prabhpreet Kaur, Surleen Kaur,2023.
 
 
